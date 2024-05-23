@@ -1,3 +1,5 @@
 print("Hola git! V3 para merge")
 #Añadiendo nuevos datos pra prueba de fetch y pull
-un conflcito x
+#un conflcito x
+
+"""Arreglando detalles a solucionar"""
